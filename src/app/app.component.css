@@ -1,0 +1,11 @@
+
+.count{ 
+    font-size: 5.2em;
+    text-align: center;
+    height: 150px;
+    width: 250px;
+    color: rgb(133, 16, 55);
+    background-color:white;
+    border-radius: 50%;
+    display: inline-block;    
+}
